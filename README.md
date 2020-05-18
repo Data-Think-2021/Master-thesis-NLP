@@ -4,5 +4,6 @@ The topic of my master thesis is sentiment analysis of Amazon reviews. I will ex
 
 In traditional method, Bag of words and Tf-idf features are used for Naive Bayes and Logistic Regression model. 
 
-In deep learning NLP, firstly use pre-trained word2vec embeddings and LSTM to train. And second approach is to use pre-trained language models trained on large text corpus and fine-tuning on Amazon dataset.
+In deep learning NLP, firstly use pre-trained word2vec embeddings and LSTM to train. And second approach is to use pre-trained language models trained on large text corpus and fine-tuning on Amazon dataset like ULMFiT.
+
 
